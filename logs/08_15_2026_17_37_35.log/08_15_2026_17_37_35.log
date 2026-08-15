@@ -1,0 +1,16 @@
+[2026-08-15 17:37:37,641] 15 root INFO - Initiate the data ingestion
+[2026-08-15 17:37:42,263] 67 root INFO - performed train test split on the dataframe
+[2026-08-15 17:37:42,263] 69 root INFO - Excited split_data_as_train_test of method data ingestion class
+[2026-08-15 17:37:42,336] 77 root INFO - exported train and test file_path
+[2026-08-15 17:37:42,336] 17 root INFO - Data initiation is completed
+[2026-08-15 17:37:42,338] 21 root INFO - initated the data validation
+[2026-08-15 17:37:42,444] 33 root INFO - required no of columns : 31
+[2026-08-15 17:37:42,444] 34 root INFO - data frame of ha columns:31
+[2026-08-15 17:37:42,444] 33 root INFO - required no of columns : 31
+[2026-08-15 17:37:42,444] 34 root INFO - data frame of ha columns:31
+[2026-08-15 17:37:42,444] 166 root INFO - Numerical column validation completed successfully.
+[2026-08-15 17:37:42,586] 206 root INFO - Data validation artifact: DataValidationArtifact(validation_status=True, valid_train_file_path='Artifacts\\08_15_2026_17_37_35\\data_validation\\validated\\train.csv', valid_test_file_path='Artifacts\\08_15_2026_17_37_35\\data_validation\\validated\\test.csv', invalid_train_file_path=None, invalid_test_file_path=None, drift_report_file_path='Artifacts\\08_15_2026_17_37_35\\data_validation\\drift_report\\report.yaml')
+[2026-08-15 17:37:42,586] 23 root INFO - initated datavalidation is completed
+[2026-08-15 17:37:42,586] 26 root INFO - data Transformation started
+[2026-08-15 17:37:42,586] 67 root INFO - Entered initiate_data_transformation method of DataTransformation class
+[2026-08-15 17:37:42,586] 69 root INFO - Starting data transformations
